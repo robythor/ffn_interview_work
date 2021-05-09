@@ -1,0 +1,4 @@
+Browser Settings:
+  CHROME_EXEC: 'C:\\Users\\User\\eclipse-workspace\\valami\\g17s216\\Scripts\\chromedriver.exe'
+  FIREFOX_EXEC: ''
+  FIREFOX_BINARY: ''
