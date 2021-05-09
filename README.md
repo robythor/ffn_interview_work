@@ -14,6 +14,7 @@ A: Open CMD, copy requirements.txt into Scripts folder of your python installati
 	pip install -r requirements.txt
 
 B: Alternatively:
+
 	1. Add Robot framework to environment.
 	
 	https://pypi.org/project/robotframework/
