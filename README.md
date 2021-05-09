@@ -17,8 +17,9 @@ B: Alternatively:
 	https://github.com/robotframework/SeleniumLibrary
 	3. Add PyYAML to environment.
 	https://pypi.org/project/PyYAML/
-
+	
 III. Download chrome and geckodriver that fits to your browser. Place them into Scripts folder of your python installation.
+
 
 
 #  USAGE:
